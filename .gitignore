@@ -193,7 +193,6 @@ platform/android/**/default.properties
 
 .gvide
 *.gem
-Manifest.txt
 
 spec/framework_spec/faillog.txt
 spec/framework_spec/preverified/*
