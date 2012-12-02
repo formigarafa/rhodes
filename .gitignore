@@ -1,3 +1,4 @@
+.rvmrc
 lib/**/*.o
 *~
 *.iseq
